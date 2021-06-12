@@ -122,9 +122,9 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "**************************************"
-  ui_print " Disable screenshot and camera sounds "
-  ui_print "**************************************"
+  ui_print "************************"
+  ui_print " Disable charging sound "
+  ui_print "************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.

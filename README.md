@@ -1,3 +1,4 @@
-# Disable both screenshot and camera sounds
+# Disable charging sounds
 
-Most ROMs offer the option to disable camera click, but not the screenshot sound. This module does it, by replacing systemlessly the sound files with an empty version.
+Most ROMs offer the option to disable charging sound and vibration, but not the option to only vibrate, but not make a sound.
+This module makes it possible by replacing the sound files systemlessly with an empty version.
