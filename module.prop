@@ -1,6 +1,6 @@
-id=disable-charging-sound
-name=Disable charging sound
+id=disable-charging-sounds
+name=Disable charging sounds
 version=v1.0
 versionCode=1
 author=programminghoch10
-description=Systemlessly disable charging sound
+description=Systemlessly disable charging sounds
